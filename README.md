@@ -23,3 +23,4 @@ GPT-4, Markdown, Supabase, WordPress, Python, Zapier
 https://github.com/Zeke142/OS-PowerShifter/blob/main/1E96DE03-808B-4156-952F-EE991E6904B0.jpeg
 
 **FlowBase UI**:
+https://github.com/Zeke142/OS-PowerShifter/blob/main/Open%20FlowBase%20dashboard.png
