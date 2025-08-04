@@ -17,4 +17,4 @@ GPT-4, Markdown, Supabase, WordPress, Python, Zapier
 - Studio UI preview  
 - WordPress integration or layout screenshot
 
-**Repo Link**: [https://github.com/YOUR-USERNAME/os-powershifter](https://github.com/YOUR-USERNAME/os-powershifter)
+**Portfolio**: https://github.com/Zeke142
