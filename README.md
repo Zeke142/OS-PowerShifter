@@ -18,3 +18,6 @@ GPT-4, Markdown, Supabase, WordPress, Python, Zapier
 - WordPress integration or layout screenshot
 
 **Portfolio**: https://github.com/Zeke142/Portfolio
+
+**Cover Art**:
+https://github.com/Zeke142/OS-PowerShifter/blob/main/1E96DE03-808B-4156-952F-EE991E6904B0.jpeg
